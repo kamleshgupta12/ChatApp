@@ -1,0 +1,30 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.bower_components/
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
